@@ -103,7 +103,7 @@
       "value": "${AZURE_PRINCIPAL_ID}"
     },
     "userPrincipalId": {
-      "value": "${USER_PRINCIPAL_ID}"
+      "value": "${AZURE_USER_PRINCIPAL_ID}"
     },
     "assignPermissionsToPrincipal": {
       "value": "${ASSIGN_PERMISSIONS_TO_PRINCIPAL=true}"
