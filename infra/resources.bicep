@@ -21,7 +21,7 @@ param grafanaExists bool
 param grafanaDefinition object
 
 @description('Id of the user or app to assign application roles')
-param principalId string
+param principalId string?
 
 @secure()
 param grafanaUsername string
